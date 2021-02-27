@@ -12,7 +12,6 @@
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-
 <img src="http://g.recordit.co/mBBMzoY1BL" width=250><br>
 
 ### Notes
@@ -39,10 +38,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
 <img src="hhttp://g.recordit.co/E8S7o7zRDC.gif" width=250><br>
-
 
 ### Notes
 Describe any challenges encountered while building the app.
